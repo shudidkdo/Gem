@@ -76,7 +76,6 @@ ul{
 }
 .btn:hover{
     background-color: var(--grenn);
-    letter-spacing: .1rem;
 }
 /* Logo */
 
